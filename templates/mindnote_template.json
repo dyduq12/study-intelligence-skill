@@ -1,0 +1,41 @@
+[
+  {
+    "titulo": "Área ou Bloco Principal",
+    "anotacao": null,
+    "cor": "#2563EB",
+    "filhos": [
+      {
+        "titulo": "Tópico Crucial (Nível 1 - Prioridade Absoluta)",
+        "anotacao": null,
+        "cor": "#DC2626",
+        "filhos": [
+          {
+            "titulo": "Conceito Chave / Fórmula / Macete de Reta Final",
+            "anotacao": {
+              "tipo": "pauta",
+              "linhas_manuais": 3
+            },
+            "cor": "#DC2626",
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "titulo": "Tópico Consolidante (Nível 2 - Alto Impacto)",
+        "anotacao": null,
+        "cor": "#D97706",
+        "filhos": [
+          {
+            "titulo": "Definição Operacional ou Exceção de Regra",
+            "anotacao": {
+              "tipo": "pauta",
+              "linhas_manuais": 3
+            },
+            "cor": "#D97706",
+            "filhos": []
+          }
+        ]
+      }
+    ]
+  }
+]
