@@ -82,3 +82,4 @@ Esta skill e sua metodologia foram criadas e desenvolvidas por **Eduardo Borbore
 
 Este projeto é protegido pela licença **[Eduardo Borborema Source-Available & Non-Commercial License 1.0](LICENSE)**.  
 Uso livre para fins educacionais, estudos pessoais e aprendizado não-comercial. É expressamente proibida a apropriação indevida de autoria ou qualquer forma de exploração comercial sem autorização prévia por escrito do autor.
+
